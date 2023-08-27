@@ -1,0 +1,33 @@
+.film-list-page {
+    text-align: center;
+}
+
+.film-list-page h2{
+color:  #db4d34;
+}
+
+.film-list-page input{
+margin: 20px;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+font-size: 14px;
+outline: none;
+border-color: #db4d34;
+box-shadow: 0 0 3px #db4d34;
+}
+
+.film-list-page select{
+margin: 20px;
+padding: 10px;
+border-radius: 5px;
+font-size: 14px;
+outline: none;
+border-color: #db4d34;
+box-shadow: 0 0 3px #db4d34;
+}
+
+.film-list-page Button{
+margin: 20px;
+width: 180px;
+}

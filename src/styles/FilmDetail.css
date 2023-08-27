@@ -1,0 +1,14 @@
+.film-detail-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .film-detail-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }

@@ -1,0 +1,25 @@
+.film-card {
+    border: 2px solid #3498db; 
+    padding: 10px;
+    margin-left: 740px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    width: 400px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .film-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .film-card h3 {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+  
+  .film-card p {
+    font-size: 0.9rem;
+    margin: 5px 0;
+  }
